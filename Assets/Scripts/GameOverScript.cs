@@ -44,4 +44,7 @@ public class GameOverScript : MonoBehaviour
         // Reload the level
         Application.LoadLevel("Stage1");
     }
+    public void Quit() {
+        Application.Quit();
+    }
 }

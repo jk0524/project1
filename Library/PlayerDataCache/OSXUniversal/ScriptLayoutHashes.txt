@@ -177,3 +177,4 @@ d9cc680944e9d9e0503a0081c6b3a542 Assembly-CSharp.dll:.SpecialEffectsHelper
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.GameOverScript
 29d1d75b0c11ed54501e938ca4cdcec0 Assembly-CSharp.dll:.CreateRandomPoulpi
 ef2008fb1aa59e31a4ce1528d5a94cd1 Assembly-CSharp.dll:.TimeBody
+d345dc630141ba3a360c50d6cb7e7c9d Assembly-CSharp.dll:.PauseScript
