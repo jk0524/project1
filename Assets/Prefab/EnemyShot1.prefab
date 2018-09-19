@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 61409679028093856}
   - component: {fileID: 114003937769036804}
   - component: {fileID: 114614769368265166}
+  - component: {fileID: 114287065405166306}
   m_Layer: 0
   m_Name: EnemyShot1
   m_TagString: Untagged
@@ -102,6 +103,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damage: 1
   isEnemyShot: 0
+--- !u!114 &114287065405166306
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1732196316805734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23fb4644ce2df4b1c8e07ab72c076f64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  recordTime: 5
 --- !u!114 &114614769368265166
 MonoBehaviour:
   m_ObjectHideFlags: 1
